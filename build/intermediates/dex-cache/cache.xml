@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_e2fc7104e3c89694f4f8c08f052384b6bc399db3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_493f13e263e8cd63afc7622c7c12ac873452fe05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e3f41a3141b5c8c39dba7eb1c407b0a4e530f4a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0e1f104cf60bfe34147ef670229f2635789c79a4">
+        <dex dex="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-3.4.0_74fb9e81a2d9463638f245642a9236d8223b0be6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f15aea874bf4acac20a765f564613a920ebef94c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nikhilkc/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_c2702e1057c17848e89e1c1d8f29d28689182a33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_551534da9898e8b382524020982b4380fc926d47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_b316cfb46aaa74cef79e9ead752fe8f1f2ef4b18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_b267d521e493feb5175a2bcbee1d8e0dc6ab59bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_b95e699327245be9b6f6ffc9f2231b279d32a505.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_5ff8ceb820d3492fe989d3e5ab30eb25718d284d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8e3ea59c31509c2cc67d42238a2478e4df558aaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nikhilkc/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/pre-dexed/debug/core-3.2.1_f10bdb08505b0a07ac97012ae3bcc53b54df5069.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_82188dd96d31c0ed3f61221ef399c11f9239751c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_43bc892404226fd9fbf26b1bd3fcea57172d8d67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_47d4df0cfe6525b8cefa81b71ba0493547ac5328.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/nikhilkc/Desktop/Projects/RetailShop/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_22adbb0beefd614103acabff19289f10611a0d9a.jar" />
+    </item>
+
+</items>
