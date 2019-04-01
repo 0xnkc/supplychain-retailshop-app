@@ -9,6 +9,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#2D3239"
     tools:context="com.qrcodescanner.MainActivity">
 
     <LinearLayout
@@ -20,12 +21,14 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textColor="#ffff"
             android:text="Name" />
 
         <TextView
             android:id="@+id/textViewName"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textColor="#ffff"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
 
 
@@ -35,55 +38,65 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textColor="#ffff"
             android:text="MFD Date" />
         <TextView
             android:id="@+id/textmfd"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textColor="#ffff"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
 
 
         <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+            android:textColor="#ffff"
         android:text="Expire Date" />
 
         <TextView
             android:id="@+id/textexp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textColor="#ffff"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textColor="#ffff"
             android:text="Net Quantity" />
 
         <TextView
             android:id="@+id/textquantity"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textColor="#ffff"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textColor="#ffff"
             android:text="Price" />
 
         <TextView
             android:id="@+id/textViewAddress"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textColor="#ffff"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textColor="#ffff"
             android:text="Batch ID" />
         <TextView
             android:id="@+id/textbatch"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:textColor="#ffff"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
 
 
@@ -96,7 +109,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-
+        android:background="@drawable/android_button_round1"
+        android:textColor="#fff"
         android:layout_marginBottom="106dp"
         android:text="Scan QR Code" />
 
@@ -105,9 +119,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-
         android:layout_marginBottom="25dp"
+        android:background="@drawable/android_button_round"
+        android:textColor="#fff"
         android:text="View Batch Progress" />
+
+
 
     <ImageView
         android:id="@+id/imageView"
