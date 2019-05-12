@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 String s1= sp.getString("batchid",null);
                 // webView.loadUrl("http://35.200.186.171/supplychain-frontend/view-batch.php?batchNo="+s1);
 
-                Intent i = new Intent(Intent.ACTION_VIEW, Uri.parse("http://35.200.186.171/supplychain-frontend/view-batch.php?batchNo="+s1));
+                Intent i = new Intent(Intent.ACTION_VIEW, Uri.parse("http://35.200.190.111/supplychain-frontend/view-batch.php?batchNo="+s1));
                 startActivity(i);
             }
         });
